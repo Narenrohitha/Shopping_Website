@@ -1,0 +1,1 @@
+web: gunicorn naren_project.wsgi --log-file -
