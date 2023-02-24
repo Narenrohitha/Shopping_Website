@@ -19,6 +19,7 @@ pipenv==2023.2.4
 platformdirs==3.0.0
 protobuf==3.20.3
 psycopg2==2.9.5
+PyAudio==0.2.13
 pycparser==2.21
 scikit-learn==1.1.1
 scipy==1.8.1
